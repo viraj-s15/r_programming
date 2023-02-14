@@ -1,0 +1,5 @@
+Collect the data on marks of at least 60 students on your own. and analyse the
+followings.
+i. Mean, Median & Mode
+ii. Range, variance, standard deviation, mean deviation, coefficient of
+variation, coefficient of quartile variation.
